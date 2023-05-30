@@ -1,3 +1,4 @@
-ALX-BACKEND-USER-DATA
+# ALX BACKEND USER DATA
 
-PERSONAL DATA
+## Description
+This is a repository for the backend user data project for the ALX SE program.
